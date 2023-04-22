@@ -99,14 +99,16 @@ plt.show()
 ## OUTPUT
 
 ### True Stock Price, Predicted Stock Price vs time
-"C:\Users\SEC\Pictures\deep2.png"
+![196022955-ed35b212-15c7-4fe5-8bca-a724f6969bcf](https://user-images.githubusercontent.com/120204455/233794184-18b63d0c-8098-4ec4-aa7a-2962f1b6de20.png)
 
-Include your plot here
+
+
 
 ### Mean Square Error
-"C:\Users\SEC\Pictures\deep1.png"
+![196022962-fe09c459-00fa-47c1-a79c-66231a199478](https://user-images.githubusercontent.com/120204455/233794198-739ce0c3-e410-40aa-985c-3c98a517af6a.png)
 
-Include the mean square error
+
+
 
 ## RESULT
 Thus, we have successfully created a Simple RNN model for Stock Price Prediction.
